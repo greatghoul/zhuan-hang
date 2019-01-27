@@ -1,6 +1,6 @@
 # 转行的故事
 
-[![HitCount](http://hits.dwyl.io/greatghoul/remote-working.svg)](http://hits.dwyl.io/greatghoul/zhuan-hang)
+[![HitCount](http://hits.dwyl.io/greatghoul/zhuan-hang.svg)](http://hits.dwyl.io/greatghoul/zhuan-hang)
 
 ## 医疗行业
 
